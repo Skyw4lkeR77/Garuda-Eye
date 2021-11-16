@@ -1,7 +1,6 @@
 # Garuda-Eye
 
 Hack CCTV
-By : Skyw4lkeR77
 
 
 ## Instalasi
